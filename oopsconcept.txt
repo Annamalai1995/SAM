@@ -1,0 +1,18 @@
+object oriented programming
+
+object/issue/problem
+
+Rufus 
+Driver software 
+ms office
+games
+'
+'
+Reusability and security
+*class
+*object
+*Encapsulation
+*Inheritance
+*Polymorphism
+
+

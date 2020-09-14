@@ -1,0 +1,15 @@
+Encapsulation
+data hidding
+var/obj private:__var
+function public :def fun()
+
+polymorphism
+overloading: same name/block for multiple parameters
+
+constructor : to initialize class members,can perform most important task at the beginning before anyother gonna happen because constructor will be called while creating object itself 
+normally function will be called after object creation
+def __init__(self)
+
+function
+operator
+

@@ -1,0 +1,27 @@
+Array
+grouping the multiple data of same type under one reference
+dynamic,inbuilt function
+Types
+i
+I
+f
+d
+b
+c
+.
+.
+.
+Syntax
+var=array('type',[])
+functions
+insert 
+remove
+index
+count
+
+
+
+
+
+
+

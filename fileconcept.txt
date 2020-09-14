@@ -1,0 +1,12 @@
+file processing
+>storage 
+*open("filename",mode)>> read,write,append,readbinary
+*write
+*read 
+*close
+
+
+-->secure
+pickle
+unpickle
+ 

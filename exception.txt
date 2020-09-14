@@ -1,0 +1,34 @@
+Exception/Error Handling
+
+Error:
+syntax/logical:
+RuntimesErrors:
+a condition/ip/statements which cause abnormal termination
+
+keyError 
+IndexError
+TypeError
+.
+.
+.
+Handling:
+1.let the to complete
+2.give another chance 
+Three block:
+     try
+     except
+     finally 
+Try:
+  #probable error statements
+except: ErrorType as id:
+  #handling
+Finally:
+    # statements will be executes though error not occurs
+
+
+
+
+
+
+
+

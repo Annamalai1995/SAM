@@ -1,0 +1,13 @@
+Console user interface: through commands /inputs via keyboard /output via console 
+Graphical user interface 
+Button 
+Textbox 
+Combobox 
+Radiobutton
+.
+.
+Tkinter :
+Window
+Title
+geomentry(L X H)
+mainloop()

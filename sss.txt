@@ -1,0 +1,13 @@
+Application building
+
+Event management:
+front:tkinter>>pycharm
+back:mysql
+
+modules/operation
+1.login
+2.New event 
+3.open for participants
+4.announce/declare winner 
+5.search/enquire
+6.
